@@ -1,0 +1,26 @@
+body
+{
+color:darkorchid;
+background-size: cover;
+background-position: center;
+}
+
+#Pong{
+    width: 100%;
+    margin-top: 0px;
+    font-size: xx-large;
+}
+
+#menu {
+float: right;
+}
+
+.footer {
+    text-align: center;
+    line-height: 3;
+    background-color: mediumaquamarine;
+    color:red;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+}
